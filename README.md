@@ -18,21 +18,32 @@ Here are some ideas to get you started:
 -->
 I am a Data Scientist and Full Stack Software Engineering specialized in Machine Learning. I love solving complex data and algorithmic problems .
 
+- 🔭 I’m currently working on my final year project.
+- 🌱 I’m currently learning Machine Learning.
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/Bzhamdi/Bzhamdi)](https://github.com/Bzhamdi)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Bzhamdi1) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hamdi-bouzouitina-0011101a2/)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## &#x1f4c8; GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzhamdi&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&langs_count=8&hide=html&layout=compact)](https://github.com/Bzhamdi/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&langs_count=12&hide=html&layout=compact)(https://github.com/Bzhamdi/github-readme-stats)
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Deep_Learning-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Machine_Learning-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 
