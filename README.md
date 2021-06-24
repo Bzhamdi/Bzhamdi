@@ -25,13 +25,12 @@ I am a Data Scientist and Full Stack Software Engineering specialized in Machine
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzhamdi&theme=dark&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&layout=compact)
   
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
