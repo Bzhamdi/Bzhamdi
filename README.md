@@ -1,4 +1,6 @@
 ### Hi there I'm Hamdi Bou Zouitina 👋
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <!--
 **Bzhamdi/Bzhamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +23,9 @@ I am a Data Scientist and Full Stack Software Engineering specialized in Machine
 ## &#x1f4c8; GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzhamdi&theme=dark&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&layout=compact)]
   
 ## 💼 Skills
 
