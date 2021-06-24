@@ -24,6 +24,7 @@ I am a Data Scientist and Full Stack Software Engineering specialized in Machine
 ## &#x1f4c8; GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzhamdi&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzhamdi&langs_count=8&hide=html&layout=compact)](https://github.com/Bzhamdi/github-readme-stats)
 
 
   
